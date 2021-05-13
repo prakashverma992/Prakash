@@ -10,7 +10,7 @@ public class Assignment_1
 {
 	public void ReadData(int row_num) throws IOException
 	{
-		File f = new File("../Example 1/Assignment_1&2.txt");
+		File f = new File("../Example 1/Assignment_1&2.txt");			//Connection established
 		FileReader fr = new FileReader(f);
 		BufferedReader b = new BufferedReader(fr);
 		int i = 0;

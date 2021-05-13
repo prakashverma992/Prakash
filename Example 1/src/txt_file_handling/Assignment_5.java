@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Assignment_5 
+public class Assignment_5 			//using method
 {
 	static String s1 = "";
 	static int i;
